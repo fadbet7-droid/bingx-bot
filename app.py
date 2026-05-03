@@ -4,7 +4,7 @@ from flask import Flask
 import threading
 
 # التوكن والـ ID الخاص بك (جاهزين للعمل)
-API_TOKEN = '7330777977:AAH0_fVjYd8WfW9G0_Z8D4Iu9_Oq7T5Q-E0'
+API_TOKEN = '8532444113:AAHrWpDY4CuE_94s75FDSgLpVOiMsqjqUgg'
 MY_CHAT_ID = '1035541584' 
 
 bot = telebot.TeleBot(API_TOKEN)
